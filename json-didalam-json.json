@@ -1,0 +1,8 @@
+{
+  "nama": "John Doe",
+  "pekerjaan": {
+    "posisi": "Pengembang Perangkat Lunak",
+    "perusahaan": "Contoh Corp"
+  },
+  "alamat": "Jalan Contoh, Kota Contoh"
+}
