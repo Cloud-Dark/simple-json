@@ -1,0 +1,6 @@
+{
+  "nama": "John Doe",
+  "tanggal_lahir": "1990-01-01",
+  "gaji": 5000,
+  "menikah": true
+}
