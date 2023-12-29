@@ -1,0 +1,8 @@
+{
+  "nama": "John Doe",
+  "hobi": ["membaca", "berenang", "menulis"],
+  "alamat": {
+    "jalan": "Jalan Contoh",
+    "kota": "Kota Contoh"
+  }
+}
