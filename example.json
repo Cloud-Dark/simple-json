@@ -1,0 +1,34 @@
+{
+  "orang": [
+    {
+      "nama": "John Doe",
+      "umur": 30,
+      "alamat": {
+        "jalan": "Jalan Contoh",
+        "kota": "Kota Contoh"
+      },
+      "hobi": ["membaca", "berenang", "menulis"],
+      "pekerjaan": {
+        "posisi": "Pengembang Perangkat Lunak",
+        "perusahaan": "Contoh Corp"
+      }
+    },
+    {
+      "nama": "Jane Smith",
+      "umur": 25,
+      "alamat": {
+        "jalan": "Jalan Lain",
+        "kota": "Kota Lain"
+      },
+      "hobi": ["mendaki", "bersepeda", "menggambar"],
+      "pekerjaan": {
+        "posisi": "Desainer Grafis",
+        "perusahaan": "Lain Corp"
+      }
+    }
+  ],
+  "informasi_tambahan": {
+    "tanggal": "2023-12-29",
+    "lokasi": "Contoh Lokasi"
+  }
+}
